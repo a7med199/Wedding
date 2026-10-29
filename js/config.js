@@ -1,15 +1,15 @@
 // ===== Edit everything about the invitation here =====
 window.INVITE = {
   groom: "Mohamed",
-  bride: "Nadine",
+  bride: "Nadeen",
   groomParents: ["Groom's father name", "Groom's mother name"],
   brideParents: ["Bride's father name", "Bride's mother name"],
   dateISO: "2026-11-23T18:00:00+02:00",   // ceremony start (Cairo time)
   dayName: "Monday",
   monthName: "November",
-  timeText: "8:00 PM",
-  guestsTime: "8:00",
-  startTime: "9:00",
+  timeText: "6:00 PM",
+  guestsTime: "6:00",
+  startTime: "7:00",
   venueName: "Dalida Hall",
   venueCity: "Egypt",
   lat: 30.1711472, lng: 31.5580544,
